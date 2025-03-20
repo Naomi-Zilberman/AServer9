@@ -4,7 +4,6 @@ obj/
 
 # קבצים של Visual Studio
 *.sln
-*.csproj
 *.user
 *.suo
 *.vs/
