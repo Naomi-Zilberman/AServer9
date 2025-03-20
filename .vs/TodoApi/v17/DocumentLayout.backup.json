@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\jm_0tRm2Bb9VUaZLFo_selections_87\\cnf\\p2\\project2\\seed\\JSON Files\\HtmlTags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\jm_0tRm2Bb9VUaZLFo_selections_87\\cnf\\p2\\project2\\seed\\JSON Files\\HtmlVoidTags (2).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AF17C3-7A03-436F-8A92-169975CF01EC}|TodoApi.csproj|c:\\users\\this user\\documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AF17C3-7A03-436F-8A92-169975CF01EC}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AF17C3-7A03-436F-8A92-169975CF01EC}|TodoApi.csproj|c:\\users\\this user\\documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\todoapi\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AF17C3-7A03-436F-8A92-169975CF01EC}|TodoApi.csproj|solutionrelative:tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AF17C3-7A03-436F-8A92-169975CF01EC}|TodoApi.csproj|c:\\users\\this user\\documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\todoapi\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AF17C3-7A03-436F-8A92-169975CF01EC}|TodoApi.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AF17C3-7A03-436F-8A92-169975CF01EC}|TodoApi.csproj|c:\\users\\this user\\documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\todoapi\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6AF17C3-7A03-436F-8A92-169975CF01EC}|TodoApi.csproj|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AF17C3-7A03-436F-8A92-169975CF01EC}|TodoApi.csproj|c:\\users\\this user\\documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6AF17C3-7A03-436F-8A92-169975CF01EC}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\src\\service.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\public\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\public\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtmlTags.json",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\jm_0tRm2Bb9VUaZLFo_selections_87\\cnf\\p2\\project2\\seed\\JSON Files\\HtmlTags.json",
+              "RelativeDocumentMoniker": "..\\..\\jm_0tRm2Bb9VUaZLFo_selections_87\\cnf\\p2\\project2\\seed\\JSON Files\\HtmlTags.json",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\jm_0tRm2Bb9VUaZLFo_selections_87\\cnf\\p2\\project2\\seed\\JSON Files\\HtmlTags.json",
+              "RelativeToolTip": "..\\..\\jm_0tRm2Bb9VUaZLFo_selections_87\\cnf\\p2\\project2\\seed\\JSON Files\\HtmlTags.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T18:39:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HtmlVoidTags (2).json",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\jm_0tRm2Bb9VUaZLFo_selections_87\\cnf\\p2\\project2\\seed\\JSON Files\\HtmlVoidTags (2).json",
+              "RelativeDocumentMoniker": "..\\..\\jm_0tRm2Bb9VUaZLFo_selections_87\\cnf\\p2\\project2\\seed\\JSON Files\\HtmlVoidTags (2).json",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\jm_0tRm2Bb9VUaZLFo_selections_87\\cnf\\p2\\project2\\seed\\JSON Files\\HtmlVoidTags (2).json",
+              "RelativeToolTip": "..\\..\\jm_0tRm2Bb9VUaZLFo_selections_87\\cnf\\p2\\project2\\seed\\JSON Files\\HtmlVoidTags (2).json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T18:38:02.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:52:57.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\ToDoDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoDbContext.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\ToDoDbContext.cs",
+              "RelativeToolTip": "ToDoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:52:43.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:56:51.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\public\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\TodoApi\\ToDoListReact\\public\\index.html",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\public\\index.html",
+              "RelativeToolTip": "..\\..\\TodoApi\\ToDoListReact\\public\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-05T17:37:17.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T17:36:36.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "service.js",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\src\\service.js",
+              "RelativeDocumentMoniker": "..\\..\\TodoApi\\ToDoListReact\\src\\service.js",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\src\\service.js",
+              "RelativeToolTip": "..\\..\\TodoApi\\ToDoListReact\\src\\service.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-05T17:37:25.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\public\\index.css",
+              "RelativeDocumentMoniker": "..\\..\\TodoApi\\ToDoListReact\\public\\index.css",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\public\\index.css",
+              "RelativeToolTip": "..\\..\\TodoApi\\ToDoListReact\\public\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-05T17:37:16.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\public\\favicon.ico",
+              "RelativeDocumentMoniker": "..\\..\\TodoApi\\ToDoListReact\\public\\favicon.ico",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\public\\favicon.ico - Icon [16x16, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\TodoApi\\ToDoListReact\\public\\favicon.ico - Icon [16x16, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-03-05T17:37:14.186Z",
+              "EditorCaption": " - Icon [16x16, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\src\\App.js",
+              "RelativeDocumentMoniker": "..\\..\\TodoApi\\ToDoListReact\\src\\App.js",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\TodoApi\\ToDoListReact\\src\\App.js",
+              "RelativeToolTip": "..\\..\\TodoApi\\ToDoListReact\\src\\App.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-05T17:36:49.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 4\\TodoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T17:36:43.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
