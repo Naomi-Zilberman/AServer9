@@ -26,9 +26,7 @@ builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 var app = builder.Build();
 
 // הגדרת פורט 5117, חשוב שהשרת יאזין על הפורט הזה
-app.Urls.Add("http://localhost:5117");
-
-// Middleware נוסף לדיבוג בקשות
+app.Urls.Add("http://0.0.0.0:5117");// Middleware נוסף לדיבוג בקשות
 app.Use(async (context, next) =>
 {
     Console.WriteLine($"Request: {context.Request.Method} {context.Request.Path}");
@@ -72,7 +70,7 @@ app.MapDelete("/items/{id}", async (ToDoDbContext db, int id) => {
 });
 
 // Default route
-//app.MapGet("/", () => "Hello World!");
+app.MapGet("/", () => "Hello World!");
 
 // הפעלת השרת
 app.Run();
