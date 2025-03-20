@@ -1,0 +1,17 @@
+﻿# תיקיות בנייה
+bin/
+obj/
+
+# קבצים של Visual Studio
+*.sln
+*.csproj
+*.user
+*.suo
+*.vs/
+
+# קבצים זמניים
+*.log
+*.tmp
+
+# קבצים של תצורה שאינם נדרשים
+appsettings.Development.json
